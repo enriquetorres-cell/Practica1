@@ -1,3 +1,5 @@
 print("marcelo kchudo xd")
 print("gg")
 print("xd")
+print ("Marcelo kchudo x2")
+print("hello mano, wi")
